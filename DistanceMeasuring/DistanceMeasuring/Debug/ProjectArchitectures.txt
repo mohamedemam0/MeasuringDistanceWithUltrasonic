@@ -1,0 +1,1 @@
+c:\Users\windows 10\documents\visual studio 2015\Projects\DistanceMeasuring\DistanceMeasuring\DistanceMeasuring.vcxproj;x86

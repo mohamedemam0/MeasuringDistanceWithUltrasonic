@@ -1,0 +1,15 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativelink:C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Native\vmath.lib"
+/methodBodyFolding
+"C:\Users\moham\Documents\Visual Studio 2015\Projects\Reading Ultrasonic Sensor\Reading Ultrasonic Sensor\obj\ARM\Release\ilc\intermediate\MDIL\Reading Ultrasonic Sensor.mdilexe"
+"/i:C:\Users\moham\Documents\Visual Studio 2015\Projects\Reading Ultrasonic Sensor\Reading Ultrasonic Sensor\obj\ARM\Release\ilc\intermediate\MDIL\"
+/out:"C:\Users\moham\Documents\Visual Studio 2015\Projects\Reading Ultrasonic Sensor\Reading Ultrasonic Sensor\obj\ARM\Release\ilc\intermediate\Native\Reading Ultrasonic Sensor.exe"
+"/res:C:\Users\moham\Documents\Visual Studio 2015\Projects\Reading Ultrasonic Sensor\Reading Ultrasonic Sensor\obj\ARM\Release\ilc\intermediate\Native.res"
+/standalone
+/shimexe
+"/nativelink:C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Native\Interop.Native.lib"
+"/nativelink:C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Native\corelib.native.lib"

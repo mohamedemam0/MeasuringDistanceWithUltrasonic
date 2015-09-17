@@ -1,0 +1,2 @@
+Amqp.Store, Version=1.1.0.0, Culture=neutral, PublicKeyToken=null
+  Amqp.SRAmqp.resources
